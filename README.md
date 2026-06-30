@@ -3,4 +3,4 @@ This repository contains all hardware and software documents needed to replicate
 
 For more information on the force plate system design and implementation, please see the publication below.
 
-Peebles AT (2026) "Design and Validation of a Human Movement Biomechanics Screening Program." In Review at Journal of Biomechanical Engineering.  
+Peebles, Alexander T. (2026) Design and Validation of a Human Movement Biomechanics Screening Program. In Review at Journal of Biomechanical Engineering.  
